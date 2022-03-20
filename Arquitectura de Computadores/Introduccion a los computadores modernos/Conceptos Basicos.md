@@ -36,7 +36,7 @@ Un sistema computacional es conocido como la suma de varios componentes:
  Los primeros computadoress no contabn con una arquitectura estndar definada, por lo tanto los porgramas se escribian cada vez que se necesitara ejecutarlos. Debido a esto no existia el concepto de programa almacenado y estos mismos eran registrados como una sucesion de conexiones electricas 
 	![[Eniac1.jpg]]
 
- ## Arquitectura Clasica de Von Neumann
+## Arquitectura Clasica de Von Neumann
 
 Von Neuman introdujo el concepto de programa almacenado que permitio la ejecucion de las instrucciones sin volver a escribir el codigo, la primera maquinaria en usar este concepto fue el Computador Automatico Electronico de Variable Discreta tambien conocido como EDVAC por sus siglas en ingles.
 
