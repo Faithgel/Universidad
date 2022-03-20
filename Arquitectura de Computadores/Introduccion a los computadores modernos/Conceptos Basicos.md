@@ -52,7 +52,7 @@ Las principales desventajas de esta arquitectura:
 Se es referido a este tipo de arquitectura cuando se es utilizadas memorias fisicamentes separas para las instrucciones y los datos, suelen usarse en Procesadores de señal digital o DSP por sus siglas en ingles que habitualmente son encontrados en productos para el procesamiento de audio y video.
 
 - El termino proviene del computador Harvard Mark I, que almacenaba las instrucciones en cintas perforadas y los datos en interruptores.
-- 
+
 ## Arquitectura Moderna - Hoy
 
 Actualmente no se usan estas arquitecturas de manera exacta pusto que existen mejoras que originan diseños con modificaciones sinedo un ejemplo de esto los procesadores Pentium de Intel.
