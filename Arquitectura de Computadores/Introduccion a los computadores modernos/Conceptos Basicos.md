@@ -59,3 +59,5 @@ Actualmente no se usan estas arquitecturas de manera exacta pusto que existen me
 
 ![[Pentium Architecture.excalidraw]]
 Esta posee dos buses de comunicacion con la memoria principal que amacena datos e instrucciones ademas de dos cachés que mermiten acelerar el acceso a la memoria.
+
+## ¿Que es la Organizacion de Computadores?
