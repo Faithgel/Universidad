@@ -6,7 +6,16 @@
 
 Von Neumann introdujo el concepto de programa almacenado que permitió la ejecución de las instrucciones sin volver a escribir el código, la primera maquinaria en usar este concepto fue el Computador Automático Electrónico de Variable Discreta, también conocido como EDVAC por sus siglas en inglés.
 
-Esto mismo permitió a los computadores tener más flexibilidad y confiabilidad a la hora de ejecutar instrucciones, siendo mucho menos propensos a errores que los mecanicos, dando así inicio a la era moderna de los computadores.
+Esto mismo permitió a los computadores tener más flexibilidad y confiabilidad a la hora de ejecutar instrucciones, siendo mucho menos propensos a errores que los mecánicos, dando así inicio a la era moderna de los computadores.
+
+Estos computadores constan de cinco partes: 
+- Unidad aritmético-lógica o ALU.
+- Unidad de control.
+- Memoria
+- Dispositivo de entrada/salida
+- Bus de datos (para el transporte de los datos).
+
+![[Drawing 2022-04-01 15.56.58.excalidraw]]
 
 ## Problemas de la Arquitectura Clásica de Von Neumann
 
