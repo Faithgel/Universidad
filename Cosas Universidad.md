@@ -1,5 +1,0 @@
-[[Fechas Importantes]]
-[[Arquitectura de computadores]]
-[[Sistemas de Informacion]]
-[[Investigacion de Operaciones]]
-[[Gestion Estrategica]]

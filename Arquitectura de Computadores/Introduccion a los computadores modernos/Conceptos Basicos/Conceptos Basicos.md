@@ -19,3 +19,4 @@ Se es referido a las interconexiones a nivel Hardware y la tecnología asociada 
 
 - ¿Qué escala de integración se utilizará? (Gates/mm2)
 	- Small Scale Integration
+	- 
